@@ -53,3 +53,9 @@ La deriva utilizando J2
 
 La deriva utilizando los terminos J2 y J3. El tiempo que tarda en ejecutar el código para este problema (Odeint sin mejorar y mejorado) es: 1.8222070049960166 s
 
+
+# Entrega Final Satélite 
+
+Al agregar el termino J4 y J5, no hya una mejora sustancial. Al momento de probar el código, arrojo 2,11 km para el archivo dado. Luego al probarlo con el "3.EOF" que subió el profesor, llego a 8 km aprox. ¿Con más términos pudo haber mejorado? Probablemente, pero requiere más tiempo.
+
+
